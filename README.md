@@ -64,7 +64,7 @@ This helps passengers and airlines plan better and minimize disruptions.
 git clone https://github.com/yourusername/flight-delay-predictor.git
 cd flight-delay-predictor
 ```
-##🧠 Model Details
+## 🧠 Model Details
 Models trained using RandomForestClassifier and/or GradientBoostingClassifier
 
 Categorical features are encoded using LabelEncoder
@@ -77,7 +77,7 @@ Saved using pickle and loaded into Flask backend
 
 
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 🌐 Integrate live weather APIs (e.g., OpenWeatherMap)
 
 ✈️ Integrate live flight tracking data
