@@ -61,7 +61,7 @@ This helps passengers and airlines plan better and minimize disruptions.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flight-delay-predictor.git
+git clone https://github.com/Hanush0112/flight-delay-predictor.git
 cd flight-delay-predictor
 ```
 ## 🧠 Model Details
