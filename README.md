@@ -76,3 +76,16 @@ Model evaluated with accuracy score, cross-validation, etc.
 Saved using pickle and loaded into Flask backend
 
 
+
+##🔮 Future Enhancements
+🌐 Integrate live weather APIs (e.g., OpenWeatherMap)
+
+✈️ Integrate live flight tracking data
+
+📱 Create a mobile version (Flutter or React Native)
+
+💾 Save user queries and feedback
+
+📈 Display model confidence score (probability)
+
+☁️ Deploy on Render / Heroku / AWS / Railway
